@@ -3,3 +3,5 @@
 NAME=`read "enter your name: " `
 
 echo $NAME
+
+echo "End of the scripts:"
