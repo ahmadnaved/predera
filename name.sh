@@ -8,3 +8,4 @@ echo "End of the scripts:"
 echo "End of the scripts:"
 echo "End of the scripts:"
 echo $NAME
+wassup buddy
