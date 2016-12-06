@@ -26,4 +26,6 @@ class PrimeNumbers
        System.out.println("Prime numbers from 1 to 10 are :");
        System.out.println(primeNumbers);
    }
+
+
 }
